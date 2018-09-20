@@ -1,0 +1,16 @@
+.searchContainer {
+  margin-bottom: 0;
+  .input {
+    width: 20rem;
+    height: 2rem;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 17px;
+    padding: 10px 20px;
+    color: gray;
+
+    ::placeholder {
+      color: gray;
+    }
+  }
+}
